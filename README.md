@@ -1,5 +1,5 @@
-# Ethics-game-framework
-A really easy to use game framework wrote in Java.
+# Ethics game engine
+A really easy to use game engine wrote in Java.
 
 Screenshots from the demo game:
 
